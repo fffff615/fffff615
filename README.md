@@ -1,2 +1,25 @@
-👋 Welcome to My GitHub
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=650&lines=💻+Developer+%7C+Builder+%7C+Dreamer;🚀+Creating+Apps,+Games,+and+Websites;🌟+Always+Learning+Something+New" alt="Typing Animation" /> </p>
+# C++ & Graphics Enthusiast 🚀
+
+Welcome! This is a showcase of my love for **C++** and graphics programming. 🎮💻  
+
+---
+
+## 🛠 Tech Stack
+- **C++** – High-performance coding 🏎️
+- **OpenGL** – 3D worlds and graphics ✨
+- **Vulkan (learning soon)** – Next-level graphics API 🔥
+
+---
+
+## 📚 Projects & Experiments
+- OpenGL games and demos  
+- Shaders, lighting, and 3D rendering experiments  
+
+---
+
+## ⚡ Fun Fact
+Exploring graphics programming and pushing C++ to its limits! 💥
+
+---
+
+*"Code is art, C++ is the brush."* 🎨💻
